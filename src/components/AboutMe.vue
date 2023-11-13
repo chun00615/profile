@@ -28,7 +28,7 @@
         Science and Technology (NKUST). My expertise covers web development, graphic design, UI/UX design, system design,
         and project planning. I excel in teamwork and communication, and I'm committed to leading teams to work together,
         maintaining a mindset of continuous learning. I'm dedicated to crafting exceptional work and creating beautiful
-        things.
+        things!
       </div>
       <div class="social">
         <a class="socialItem" href="https://github.com/chun00615">
